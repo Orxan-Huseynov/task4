@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.ust {
+    width: 1853px;
+    height: 1933px;
+    background-color: white;
+    margin-top: 0px;
+    position: absolute;
+}
+.basliq{
+    margin-top: 34px;
+    font-family: 'Lobster', cursive;
+    font-size: 49px;
+    text-align: center;
+    color: #109E97;
+}
+.hr1{
+    border: 1px solid;
+    margin-top: 35px;
+    width: 1822px;
+}
+.div2{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.ustsoz {
+    margin-top: 20px;
+    font-size: 23px;
+}
+.qiymet1{
+    margin-top: 20px;
+    font-size: 25px;
+    color: #008000;
+}
+.qiymet2 {
+    margin-top: 20px;
+    font-size: 15px;
+    color: #FF0000;
+}
+.img1 {
+    margin-top: 10px;
+}
+.div3{
+    margin-top: 12px;
+    width: 1822px;
+    height: 256px;
+    background-color: black;
+    color: white;
+}
+.form{
+    font-family: 'Roboto';
+}
+.text{
+    
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+text-align: right;
+letter-spacing: 2px;
+    text-align: right;
+    width: 1779px;
+    margin: auto;
+    padding-top: 20px;
+}
+.qisa{
+    font-size: 20px;
+    text-align: right;
+    padding-top: 32px;
+}
+.hr2{
+    border: 1px solid;
+    margin-top: 8px;
+    width: 1822px;
+}
+.xus {
+    position: absolute;
+width: 138px;
+height: 19px;
+left: 8px;
+top: 839px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-transform: uppercase;
+}
+table{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1822px;
+height: 194px;
+left: 8px;
+top: 879px;
+
+border: 1px solid #808080;
+border-radius: 0px;
+    
+}
+table thead{
+    text-align: center;
+    height: 36px;
+}
+.hr4{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1822px;
+    height: 2px;
+    left: 8px;
+    top: 1117px;
+    border: 1px solid #000000;
+    border-radius: 0px;
+}
+.img2{
+    position: absolute;
+width: 300px;
+height: 478px;
+left: 8px;
+top: 1185px;
+}
+.img3{
+    position: absolute;
+width: 300px;
+height: 496px;
+left: 1529px;
+top: 1185px;
+}
+.box1{
+    position: absolute;
+    top: 1138px;
+    width: 302px;
+    height: 506px;
+    text-align: center;
+    left: 776px;
+}
+.serh{
+    font-size: 24px;
+}
+#text1 {
+    width: 185px;
+height: 21px;
+}
+#date{
+width: 133px;
+height: 24px;
+}
+#dil{
+    width: 93px;
+height: 19px;
+}
+
+#qiy{
+    width: 129px;
+    height: 16px;
+    border: 0;
+}
+#area{
+margin:auto;
+width: 261px;
+height: 156px;
+border: 1px solid #767676;
+}
+#button{
+    width: 120px;
+height: 50px;
+left: 867px;
+top: 1594px;
+color: white;
+background: #109E97;
+border: 2px solid #767676;
+font-family: 'Roboto', sans-serif;
+}
+ul{
+    list-style-type: none;
+    margin-left: 48px;
+    margin-top: 879px;
+
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+}
+.alt{
+box-sizing: border-box;
+position: absolute;
+margin-top: 46px;
+width: 1822px;
+height: 2px;
+left: 8px;
+top: 1829px;
+border: 1px solid #000000;
+}
+.altliq{
+    position: absolute;
+width: 1822px;
+height: 52px;
+left: 8px;
+top: 1839px;
+
+background: #109E97;
+border-radius: 0px;
+color: white;
+text-align: center;
+padding-top: 34px;
+}
